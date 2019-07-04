@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">GuessNumber</string>
+
+    <string name="main_start_text">Propose a number from 1 to 100 and click Start</string>
+    <string name="main_btn_less">less</string>
+    <string name="main_ok">Ok</string>
+    <string name="main_btn_more">more</string>
+    <string name="main_start">start</string>
+    <string name="main_count">Count:</string>
+    <string name="main_all_numbers_used">All numbers used!</string>
+
+</resources>
